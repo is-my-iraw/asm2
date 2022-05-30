@@ -75,46 +75,5 @@
         </div>
     </div>
 </div>
-<%--<div class="row">--%>
-<%--    <!-- <div class="alert alert-success" *ngIf='message'>{{message}}</div> -->--%>
-
-<%--    <div class="container">--%>
-<%--        <h3 class="text-center">List of Users</h3>--%>
-<%--        <hr>--%>
-<%--        <div class="container text-left">--%>
-
-<%--            <a href="<%=request.getContextPath()%>/home" class="btn btn-success">Add--%>
-<%--                New User</a>--%>
-<%--        </div>--%>
-<%--        <br>--%>
-<%--        <table class="table table-bordered">--%>
-<%--            <thead>--%>
-<%--            <tr>--%>
-<%--                <th>name</th>--%>
-<%--                <th>email</th>--%>
-<%--                <th>address</th>--%>
-<%--                <th>phone</th>--%>
-<%--                <th>Action</th>--%>
-<%--            </tr>--%>
-<%--            <c:forEach var="product" items="${requestScope.products}">--%>
-<%--                <tr>--%>
-<%--                    <td>${product.name}</td>--%>
-<%--                    <td>${product.email}</td>--%>
-<%--                    <td>${product.address}</td>--%>
-<%--                    <td>${product.phone}</td>--%>
-<%--                    <td><a href="edit?id=<c:out value='${product.id}' />">Edit</a>--%>
-<%--                        &nbsp;&nbsp;&nbsp;&nbsp; <a--%>
-<%--                                href="delete?id=<c:out value='${product.id}' />">Delete</a></td>--%>
-<%--                </tr>--%>
-<%--                </tr>--%>
-<%--            </c:forEach>--%>
-<%--            </thead>--%>
-<%--        </table>--%>
-<%--        <!-- } -->--%>
-<%--        </tbody>--%>
-
-<%--        </table>--%>
-<%--    </div>--%>
-<%--</div>--%>
 </body>
 </html>
